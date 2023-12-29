@@ -14,10 +14,10 @@ Usage of the `n_to_icao` and `icao_to_n` functions. Note that both functions ret
 
 ```javascript
 // Convert N-Number to ICAO address
-icao_nnumber_converter_us.n_to_icao('N12345');
+n_to_icao('N12345');
 
 // Convert ICAO address to N-Number
-icao_nnumber_converter_us.icao_to_n('abcdef');
+icao_to_n('abcdef');
 ```
 
 ### Background
